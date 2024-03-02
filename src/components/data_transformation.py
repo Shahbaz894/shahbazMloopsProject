@@ -1,0 +1,1 @@
+#here we apply onehot encoding ,label encoding and standarscaler
