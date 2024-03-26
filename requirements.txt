@@ -2,5 +2,10 @@ pandas==1.3.3
 numpy==1.24.4
 seaborn==0.11.2
 matplotlib
+scitkit-learn
+catboost
+xgboost
+dill
+Flask
 
 # -e .
